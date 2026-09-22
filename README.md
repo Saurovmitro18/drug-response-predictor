@@ -58,12 +58,3 @@ The model reproduces the following tree-based decision hierarchy:
 * **Deployment:** GitHub Pages (Static hosting)
 
 ---
-
-## 🚀 Local Development Setup
-
-To run this repository locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/REPO-NAME.git](https://github.com/YOUR-USERNAME/REPO-NAME.git)
-   cd REPO-NAME
